@@ -8,7 +8,7 @@ HERE = pathlib.Path(__file__).parent
 long_description = (HERE / "README.md").read_text()
 
 setup(
-    name="qr_generator",
+    name="genqr",
     version=version,
     description="A simple QR code generator",
     long_description=long_description,

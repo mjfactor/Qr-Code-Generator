@@ -1,0 +1,6 @@
+graft qr_generator
+include readme.md
+include setup.py
+include version.py
+
+global-exclude *.py[cod]

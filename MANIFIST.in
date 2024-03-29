@@ -1,4 +1,0 @@
-graft qr_generator
-include MANIFIST.ini
-include readme.md
-include setup.py
