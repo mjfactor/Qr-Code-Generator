@@ -5,7 +5,7 @@ from version import __version__ as version
 
 HERE = pathlib.Path(__file__).parent
 
-long_description = (HERE / "README.md").read_text()
+long_description = (HERE / "readme.md").read_text()
 
 setup(
     name="genqr",
