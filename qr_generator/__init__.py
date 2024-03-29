@@ -1,0 +1,1 @@
+from qr_generator.qr_generate import generate_qr_code
