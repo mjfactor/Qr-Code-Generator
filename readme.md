@@ -1,6 +1,6 @@
 # Simple Qr Code Generator
 
-This is a simple Qr Code Generator using Python.
+A Qr Code Generator using Python.
 
 ## Installation
 ```bash
